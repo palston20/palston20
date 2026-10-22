@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paris!
-- 👀 I’m interested in all things tech! However, my personal favorites are font and back-end programming, and game development.
-- 🌱 I’m currently learning Python and Javascript!
+- 👀 I’m interested in all things tech! However, my personal favorites are front-end and back-end programming.
+- 🌱 I’m currently learning seaborn and matplotlib!
 - 📫 How to reach me: My LinkedIn is www.linkedin.com/in/paris-alston.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to crochet and refine my skills in my free time. 
